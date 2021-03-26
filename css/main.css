@@ -308,7 +308,7 @@ section#about{
   border: 1px solid  rgba(255, 255, 255, 0.3);
   text-decoration: none;
   cursor: pointer;
-  color: gray; 
+  color: #A5ACFF; 
   padding: 15px 30px;
   margin-top: 40px;
   margin-left: 20px; 
@@ -542,15 +542,14 @@ section#work {
 }
 
 .scroll{ 
-  
+  color: gray;
   width: 100%;  
   cursor: pointer; 
 }
 .scroll a:link {
   text-decoration: none;
   cursor: pointer; 
- 
-
+ color: gray; 
   
 }
 
