@@ -221,7 +221,7 @@ h1{
 
 .item2 p{ 
   font-size: 20px; 
-  line-height: 30px; 
+  line-height: 35px; 
   color:#747474;  
   text-align: left; 
   font-family: 'Poppins', sans-serif;
@@ -280,12 +280,14 @@ h1{
     font-family: 'Poppins', sans-serif;
     font-size: 17px;
     padding-bottom: 10px; 
+    color:#747474;  
   }
 
   .footer p{ 
     font-family: 'Poppins', sans-serif;
     font-size: 17px;
     padding-bottom: 10px; 
+    color:#747474;  
 
   }
 
